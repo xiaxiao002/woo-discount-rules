@@ -1,0 +1,19 @@
+{
+	"name": "xiaxiao002/woo-discount-rules",
+	"description": "",
+	"keywords": [
+		"wordpress",
+		"plugin"
+	],
+	"homepage":"https://github.com/xiaxiao002/woo-discount-rules",
+	"authors": [
+		{
+		"name": "woo-discount-rules",
+		"homepage":"https://eileenlue.com"
+		}
+	],
+	"type": "wordpress-plugin",
+	"require": {
+		"php": ">5.6"
+	}
+}
